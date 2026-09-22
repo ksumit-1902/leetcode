@@ -6,4 +6,16 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ksumit-1902/leetcode/tree/master/0007-reverse-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ksumit-1902/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ksumit-1902/leetcode/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ksumit-1902/leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ksumit-1902/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
